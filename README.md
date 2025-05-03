@@ -2,13 +2,13 @@
 
 A comprehensive dataset aimed at analyzing and understanding depression levels among students, incorporating various demographic, academic, lifestyle, and psychological factors.
 
-**Dataset Overview**
+### **Dataset Overview**
 
 **Format**: CSV
 
 **Total Records**: e.g., 1,000 students
 
-**Features**:
+### **Features**:
 
 - **Demographics**: Age, Gender, City
 
@@ -18,7 +18,7 @@ A comprehensive dataset aimed at analyzing and understanding depression levels a
 
 - **Psychological Indicators**: Work Pressure, Job Satisfaction, Depression Status
 
-**Key Findings**
+### **Key Findings**
 
 - **Academic Pressure**: Positively correlated with depression levels.
 
