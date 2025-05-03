@@ -1,7 +1,7 @@
-Student Depression Dataset
+*Student Depression Dataset*
 A comprehensive dataset aimed at analyzing and understanding depression levels among students, incorporating various demographic, academic, lifestyle, and psychological factors.
 
-Dataset Overview
+*Dataset Overview*
 
 Format: CSV
 
@@ -17,7 +17,7 @@ Lifestyle Factors: Sleep Duration, Work/Study Hours, Dietary Habits
 
 Psychological Indicators: Work Pressure, Job Satisfaction, Depression Status
 
-Key Findings
+*Key Findings*
 
 Academic Pressure: Positively correlated with depression levels.
 
